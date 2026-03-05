@@ -1,20 +1,20 @@
 {
-    "version": "0.4.8",
+    "version": "0.4.9",
     "description": "Terminal multiplexer for Windows - tmux alternative for PowerShell and Windows Terminal",
     "homepage": "https://github.com/marlocarlo/psmux",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.8/psmux-v0.4.8-windows-x64.zip",
-            "hash": "804fdeeb0e502ee07970d095ed70bbd21c83c1f6adf5f8b8e84d5cababb4f199"
+            "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.9/psmux-v0.4.9-windows-x64.zip",
+            "hash": "cd33942a78a0e26c55a9dadd814ca3b1161d72d6cbd88963a7d901d736e5786d"
         },
         "32bit": {
-            "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.8/psmux-v0.4.8-windows-x86.zip",
-            "hash": "d257651b8ff467bf11f3d96cc76437d25126a39511e256a9d67e765c2ae457fc"
+            "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.9/psmux-v0.4.9-windows-x86.zip",
+            "hash": "56d0445bdc65cc1af8b5e7cd21184b1772e3d8ddacc26b5028b6d26df3160282"
         },
         "arm64": {
-            "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.8/psmux-v0.4.8-windows-arm64.zip",
-            "hash": "a200f67c7cfc52bb02468d5742377d281dc0859c15ea414a739fba06f25e1000"
+            "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.9/psmux-v0.4.9-windows-arm64.zip",
+            "hash": "c54355608e74429adcff85e3aacb4ed5a8b1bbc7f2a36a150d4e8bf1b596e044"
         }
     },
     "bin": [
