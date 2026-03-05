@@ -6,15 +6,15 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.9/psmux-v0.4.9-windows-x64.zip",
-            "hash": "cd33942a78a0e26c55a9dadd814ca3b1161d72d6cbd88963a7d901d736e5786d"
+            "hash": "1b0d9222b718184abe503abacdaf3f59bc65e850d87819049508081d13993603"
         },
         "32bit": {
             "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.9/psmux-v0.4.9-windows-x86.zip",
-            "hash": "56d0445bdc65cc1af8b5e7cd21184b1772e3d8ddacc26b5028b6d26df3160282"
+            "hash": "4afb804599114d1836addfde02058c55821f2ad30658fe5281a7bdd84785f5fb"
         },
         "arm64": {
             "url": "https://github.com/marlocarlo/psmux/releases/download/v0.4.9/psmux-v0.4.9-windows-arm64.zip",
-            "hash": "c54355608e74429adcff85e3aacb4ed5a8b1bbc7f2a36a150d4e8bf1b596e044"
+            "hash": "77632bcaff27f3baa4c12b6e74c64f1b5d9b9191fc27bcf13006426f4059e3bc"
         }
     },
     "bin": [
